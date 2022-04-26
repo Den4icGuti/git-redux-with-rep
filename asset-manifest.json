@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git-redux-with-rep/static/css/main.f5629005.css",
+    "main.js": "/git-redux-with-rep/static/js/main.10ac41da.js",
+    "index.html": "/git-redux-with-rep/index.html",
+    "main.f5629005.css.map": "/git-redux-with-rep/static/css/main.f5629005.css.map",
+    "main.10ac41da.js.map": "/git-redux-with-rep/static/js/main.10ac41da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5629005.css",
+    "static/js/main.10ac41da.js"
+  ]
+}
